@@ -1,0 +1,7 @@
+#!/bin/sh
+#for 5G wifi
+uci set wireless.@wifi-iface[0].disabled=1
+#for 2.4G wifi
+uci set wireless.@wifi-iface[1].disabled=1
+uci commit
+wifi
