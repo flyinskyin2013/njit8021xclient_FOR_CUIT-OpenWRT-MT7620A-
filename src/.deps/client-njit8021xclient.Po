@@ -1,0 +1,6 @@
+client-njit8021xclient.o: njit8021xclient.c /usr/include/stdc-predef.h \
+ njit8021xclient.h
+
+/usr/include/stdc-predef.h:
+
+njit8021xclient.h:
