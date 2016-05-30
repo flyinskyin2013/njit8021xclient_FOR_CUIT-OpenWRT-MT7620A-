@@ -1,5 +1,5 @@
 #this project transplanted and copyed from https://github.com/liuqun/njit8021xclient
-I modified some files to fit our school situation.\n
+I modified some files to fit our school situation.
 Do thanks for author of njit8021xclient
 
 # njit8021xclient_FOR_CUIT
