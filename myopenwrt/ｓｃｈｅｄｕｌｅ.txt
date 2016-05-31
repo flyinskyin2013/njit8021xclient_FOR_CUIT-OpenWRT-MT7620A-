@@ -1,0 +1,3 @@
+30 7 * * * reboot
+30 1 * * * /etc/init.d/wifioff
+0 7 * * * /etc/init.d/wifion
