@@ -1,0 +1,12 @@
+#!/bin/sh /etc/rc.common
+#(c) 2010 ivan_wl
+START=50
+ 
+start() {
+    njit-client [yourusername] [yourpassword] [interface] &    #这里自己改一下
+}
+ 
+stop() {
+    killall njit-client
+    killall udhcpc
+}

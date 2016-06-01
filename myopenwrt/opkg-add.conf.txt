@@ -1,0 +1,5 @@
+arch all 100
+arch noarch 200
+arch ralink 300
+arch ramips_1004kc 400
+arch ramips_24kec 500
